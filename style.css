@@ -1,0 +1,148 @@
+body{
+    background-color: rgb(255, 255, 255);
+    
+  }
+  .topbar{
+     background-color: rgb(229, 239, 229); 
+    padding: 9px 14px;
+    text-decoration: none;
+    display: flex;
+    align-items: flex-end;
+   
+  }
+  a:hover{
+    background-color: rgb(0, 134, 0);
+    padding: 14px 19px;
+    text-decoration: none;
+  }
+  a:active{
+    background-color: rgb(130, 130, 130);
+    color: rgb(96, 106, 1);
+    text-decoration: none;
+    padding: 14px 14px;
+  }
+  a:dad{
+    background-color: rgb(130, 130, 130);
+    color: rgb(1, 68, 106);
+  }
+  a:mom{
+    background-color: rgb(130, 130, 130);
+    color:rgb(96, 106, 1);
+  }
+  a:login{
+    background-color: rgb(130, 130, 130);
+    color:rgb(96, 106, 1);
+  }
+a{
+    text-decoration: none;
+    padding: 14px 19px;
+
+}
+
+.signUpForm{
+    background-color: rgb(218, 236, 236);
+    margin-top: 0%;
+
+}
+
+.formClass{
+    position: absolute;
+    top: 30%;
+    background-color: rgb(218, 236, 236);
+    left: 40%;
+    padding: 34px;
+    
+}
+
+.lname{
+    word-spacing: 84px;
+}
+.pass{
+   word-spacing: 60px;
+}
+.logInForm{
+  background-color: rgb(218, 236, 236);
+  margin-top: 0%;
+
+}
+
+.logForm{
+  position: absolute;
+  top: 30%;
+  background-color: rgb(218, 236, 236);
+  left: 40%;
+  padding: 34px;
+} 
+.plansHeading{
+  text-align: center;
+  color: green;
+}
+.unlimitedPlans{
+  background-color: rgb(250, 255, 233);
+  text-decoration: none;
+  color:rgb(26, 190, 89);
+}
+.fivePlan{
+  /* margin-left: 10%; */
+  padding: 14px;
+  margin-top: 6.34%;
+  /* margin-right: 65%; */
+  background-color: rgb(0, 255, 0);
+}
+.tenPlan{
+  margin-left: 0%;
+  margin-top: 6.34%;
+  /* margin-right: 70%; */
+  background-color: rgb(0, 255, 0);
+  padding: 14px;
+}
+
+.unlimited{
+
+  display: flex;
+ 
+  justify-content: space-around;
+}
+.secondRow{
+
+  display: flex;
+ 
+  justify-content: space-around;
+}
+.unlimitedBasic{
+  /* margin-left: 10%; */
+  padding: 14px;
+  margin-top: 6.34%;
+  /* margin-right: 65%; */
+  background-color: rgb(0, 255, 0);
+}
+.unlimitedMore{
+  /* margin-left: 10%; */
+  padding: 14px;
+  margin-top: 6.34%;
+  /* margin-right: 65%; */
+  background-color: rgb(0, 255, 0);
+}
+.eliteRow{
+
+  display: flex;
+ 
+  justify-content: space-around;
+}
+.unlimitedMorePlus{
+  /* margin-left: 10%; */
+  padding: 14px;
+  margin-top: 6.34%;
+  /* margin-right: 65%; */
+  background-color: rgb(0, 255, 0);
+}
+.unlimitedUltimatePlus{
+  /* margin-left: 10%; */
+  padding: 14px;
+  margin-top: 6.34%;
+  /* margin-right: 65%; */
+  background-color: rgb(0, 255, 0);
+}
+
+
+
