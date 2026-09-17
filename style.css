@@ -143,6 +143,16 @@ a{
   /* margin-right: 65%; */
   background-color: rgb(0, 255, 0);
 }
-
-
+.toptext{
+  text-align: center;
+}
+.colorwhite{
+  background-color: aliceblue;
+}
+.colorblue{
+  background-color: cadetblue;
+}
+.colorblack{
+  background-color: rgb(73, 72, 72);
+}
 
